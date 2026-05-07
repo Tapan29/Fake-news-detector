@@ -1,16 +1,16 @@
-# 📰 Fake News Detector using Machine Learning
+#Fake News Detector using Machine Learning
 
 A machine learning project that classifies news articles as **REAL** or **FAKE** using NLP techniques like TF-IDF Vectorization and classification algorithms.
 
 ---
 
-## 🎯 Objective
+##Objective
 
 With the rise of misinformation, detecting fake news has become critical. This project builds an ML pipeline to automatically classify news articles based on their content.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -23,7 +23,7 @@ With the rise of misinformation, detecting fake news has become critical. This p
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 fake-news-detector/
@@ -39,7 +39,7 @@ fake-news-detector/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Kaggle Fake News Dataset**  
 🔗 https://www.kaggle.com/c/fake-news/data
@@ -50,7 +50,7 @@ fake-news-detector/
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```
 Raw Data → Data Cleaning → TF-IDF Vectorization → Model Training → Evaluation → Prediction
@@ -64,7 +64,7 @@ Raw Data → Data Cleaning → TF-IDF Vectorization → Model Training → Evalu
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model | Accuracy |
 |---|---|
@@ -73,7 +73,7 @@ Raw Data → Data Cleaning → TF-IDF Vectorization → Model Training → Evalu
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repo
@@ -91,7 +91,7 @@ jupyter notebook fake_news_detector.ipynb
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Deploy as a Streamlit web app
 - Use BERT/transformer models for higher accuracy
@@ -100,9 +100,8 @@ jupyter notebook fake_news_detector.ipynb
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Tapan Singh Naruka**  
 B.Tech IT | Acropolis Institute of Technology and Research, Indore  
-📧 narukatapan@gmail.com  
-🔗 [GitHub](https://github.com/Tapan29)
+narukatapan@gmail.com  
